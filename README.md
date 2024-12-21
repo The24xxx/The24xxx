@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The24xxx
 - 👀 I’m interested in bioinformatics and game development
-- 🌱 Basics in Python and R, currently learning Unity and Blender stuff
+- 🌱 Basics in Python and R, currently learning Java
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me The24xxx@gmail.com
 
